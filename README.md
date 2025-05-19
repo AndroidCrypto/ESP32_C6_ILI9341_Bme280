@@ -1,7 +1,7 @@
 # ESP32-C6 Supermini device with ILI9341 TFT display and connected BME280 sensor
  Getting started with a **BME280** environment sensor connected to an **ESP32-C6 Supermini** device and a TFT display with driver chip **ILI9341**.
 
-This is the accompanying repository for my article "**Getting started with a BME280 environment sensor connected to an ESP32-C6 Supermini device and ILI9341 TFT display**":  .
+This is the accompanying repository for my article "**Getting started with a BME280 environment sensor connected to an ESP32-C6 Supermini device and ILI9341 TFT display**": https://medium.com/@androidcrypto/getting-started-with-a-bme280-environment-sensor-connected-to-an-esp32-c6-supermini-device-and-562a57aabe2b.
 
 My display is a 2.8 inch large TFT display with 240 x 320 pixels.
 
